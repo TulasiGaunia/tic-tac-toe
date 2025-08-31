@@ -1,5 +1,5 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
-want to play ??
+Want to play?  
 
-{click here}[https://tulasigaunia.github.io/tic-tac-toe/]
+[Click here to play](https://tulasigaunia.github.io/tic-tac-toe/)
